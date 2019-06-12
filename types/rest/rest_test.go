@@ -8,10 +8,10 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/andrecronje/cosmos-sdk/client/context"
 	"github.com/stretchr/testify/require"
 
-	"github.com/cosmos/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/types"
 )
 
 type mockResponseWriter struct{}

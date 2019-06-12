@@ -13,12 +13,12 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 	"github.com/tendermint/tendermint/crypto"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/bank"
-	"github.com/cosmos/cosmos-sdk/x/gov/types"
-	"github.com/cosmos/cosmos-sdk/x/mock"
-	"github.com/cosmos/cosmos-sdk/x/staking"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/x/auth"
+	"github.com/andrecronje/cosmos-sdk/x/bank"
+	"github.com/andrecronje/cosmos-sdk/x/gov/types"
+	"github.com/andrecronje/cosmos-sdk/x/mock"
+	"github.com/andrecronje/cosmos-sdk/x/staking"
 )
 
 type testInput struct {

@@ -23,8 +23,8 @@ import (
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
 	"github.com/andrecronje/cosmos-sdk/version"
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/server/config"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	"github.com/andrecronje/cosmos-sdk/server/config"
 )
 
 // server context

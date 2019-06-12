@@ -4,12 +4,12 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/andrecronje/cosmos-sdk/client/context"
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/utils"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/auth"
+	"github.com/andrecronje/cosmos-sdk/client/utils"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/types/rest"
+	"github.com/andrecronje/cosmos-sdk/x/auth"
 )
 
 // ----------------------------------------------------------------------------

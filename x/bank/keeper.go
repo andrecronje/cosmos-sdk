@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"time"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/bank/tags"
-	"github.com/cosmos/cosmos-sdk/x/bank/types"
-	"github.com/cosmos/cosmos-sdk/x/params"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/x/auth"
+	"github.com/andrecronje/cosmos-sdk/x/bank/tags"
+	"github.com/andrecronje/cosmos-sdk/x/bank/types"
+	"github.com/andrecronje/cosmos-sdk/x/params"
 )
 
 var _ Keeper = (*BaseKeeper)(nil)

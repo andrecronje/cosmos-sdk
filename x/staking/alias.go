@@ -7,9 +7,9 @@
 package staking
 
 import (
-	"github.com/cosmos/cosmos-sdk/x/staking/exported"
-	"github.com/cosmos/cosmos-sdk/x/staking/keeper"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/andrecronje/cosmos-sdk/x/staking/exported"
+	"github.com/andrecronje/cosmos-sdk/x/staking/keeper"
+	"github.com/andrecronje/cosmos-sdk/x/staking/types"
 )
 
 const (

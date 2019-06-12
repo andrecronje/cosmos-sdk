@@ -7,8 +7,8 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	"github.com/tendermint/tendermint/crypto/multisig"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 var (

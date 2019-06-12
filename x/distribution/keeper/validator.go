@@ -1,10 +1,10 @@
 package keeper
 
 import (
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/exported"
+	"github.com/andrecronje/cosmos-sdk/x/distribution/types"
+	"github.com/andrecronje/cosmos-sdk/x/staking/exported"
 )
 
 // initialize rewards for a new validator

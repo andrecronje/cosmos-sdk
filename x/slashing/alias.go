@@ -5,7 +5,7 @@
 package slashing
 
 import (
-	"github.com/cosmos/cosmos-sdk/x/slashing/types"
+	"github.com/andrecronje/cosmos-sdk/x/slashing/types"
 )
 
 const (

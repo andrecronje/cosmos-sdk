@@ -14,7 +14,7 @@ import (
 	"github.com/tendermint/tendermint/libs/cli"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 var bech32Prefixes = []string{

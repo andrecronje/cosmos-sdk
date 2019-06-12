@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/tests"
+	"github.com/andrecronje/cosmos-sdk/tests"
 )
 
 func Test_runListCmd(t *testing.T) {

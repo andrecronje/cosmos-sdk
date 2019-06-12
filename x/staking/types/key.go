@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"time"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 // TODO remove some of these prefixes once have working multistore

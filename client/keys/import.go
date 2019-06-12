@@ -3,7 +3,7 @@ package keys
 import (
 	"io/ioutil"
 
-	"github.com/cosmos/cosmos-sdk/client/input"
+	"github.com/andrecronje/cosmos-sdk/client/input"
 	"github.com/spf13/cobra"
 )
 

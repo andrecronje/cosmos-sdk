@@ -7,9 +7,9 @@
 package distribution
 
 import (
-	"github.com/cosmos/cosmos-sdk/x/distribution/keeper"
-	"github.com/cosmos/cosmos-sdk/x/distribution/tags"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
+	"github.com/andrecronje/cosmos-sdk/x/distribution/keeper"
+	"github.com/andrecronje/cosmos-sdk/x/distribution/tags"
+	"github.com/andrecronje/cosmos-sdk/x/distribution/types"
 )
 
 const (

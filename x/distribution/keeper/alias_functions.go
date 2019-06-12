@@ -1,7 +1,7 @@
 package keeper
 
 import (
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 // get outstanding rewards

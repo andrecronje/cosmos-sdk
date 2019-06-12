@@ -5,11 +5,11 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/rest"
+	"github.com/andrecronje/cosmos-sdk/client/context"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/types/rest"
 
-	"github.com/cosmos/cosmos-sdk/x/auth/types"
+	"github.com/andrecronje/cosmos-sdk/x/auth/types"
 )
 
 // register REST routes

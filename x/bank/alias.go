@@ -5,7 +5,7 @@
 package bank
 
 import (
-	"github.com/cosmos/cosmos-sdk/x/bank/types"
+	"github.com/andrecronje/cosmos-sdk/x/bank/types"
 )
 
 const (

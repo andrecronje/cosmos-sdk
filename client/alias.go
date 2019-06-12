@@ -13,15 +13,15 @@
 package client
 
 import (
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/andrecronje/cosmos-sdk/client/context"
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/input"
-	"github.com/cosmos/cosmos-sdk/client/keys"
-	"github.com/cosmos/cosmos-sdk/client/lcd"
-	"github.com/cosmos/cosmos-sdk/client/rest"
-	"github.com/cosmos/cosmos-sdk/client/rpc"
-	"github.com/cosmos/cosmos-sdk/client/tx"
-	"github.com/cosmos/cosmos-sdk/client/utils"
+	"github.com/andrecronje/cosmos-sdk/client/input"
+	"github.com/andrecronje/cosmos-sdk/client/keys"
+	"github.com/andrecronje/cosmos-sdk/client/lcd"
+	"github.com/andrecronje/cosmos-sdk/client/rest"
+	"github.com/andrecronje/cosmos-sdk/client/rpc"
+	"github.com/andrecronje/cosmos-sdk/client/tx"
+	"github.com/andrecronje/cosmos-sdk/client/utils"
 )
 
 const (

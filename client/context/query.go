@@ -14,9 +14,9 @@ import (
 	rpcclient "github.com/tendermint/tendermint/rpc/client"
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/cosmos/cosmos-sdk/store/rootmulti"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
+	"github.com/andrecronje/cosmos-sdk/store/rootmulti"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	authtypes "github.com/andrecronje/cosmos-sdk/x/auth/types"
 )
 
 // GetNode returns an RPC client. If the context's client is not defined, an

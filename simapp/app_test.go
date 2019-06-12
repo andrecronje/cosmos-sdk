@@ -8,7 +8,7 @@ import (
 	"github.com/tendermint/tendermint/libs/db"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/andrecronje/cosmos-sdk/codec"
 
 	abci "github.com/tendermint/tendermint/abci/types"
 )

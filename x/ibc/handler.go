@@ -3,7 +3,7 @@ package ibc
 import (
 	"fmt"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 func NewHandler(ibcm Mapper, ck BankKeeper) sdk.Handler {

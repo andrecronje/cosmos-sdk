@@ -18,11 +18,11 @@ import (
 	rpcclient "github.com/tendermint/tendermint/rpc/client"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/keys"
-	"github.com/cosmos/cosmos-sdk/codec"
-	cryptokeys "github.com/cosmos/cosmos-sdk/crypto/keys"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
+	"github.com/andrecronje/cosmos-sdk/client/keys"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	cryptokeys "github.com/andrecronje/cosmos-sdk/crypto/keys"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	authtypes "github.com/andrecronje/cosmos-sdk/x/auth/types"
 )
 
 var (

@@ -6,11 +6,11 @@ import (
 	dbm "github.com/tendermint/tendermint/libs/db"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/store"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth/types"
-	"github.com/cosmos/cosmos-sdk/x/params/subspace"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	"github.com/andrecronje/cosmos-sdk/store"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/x/auth/types"
+	"github.com/andrecronje/cosmos-sdk/x/params/subspace"
 )
 
 type testInput struct {

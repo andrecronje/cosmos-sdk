@@ -11,10 +11,10 @@ import (
 
 	ctypes "github.com/tendermint/tendermint/rpc/core/types"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/andrecronje/cosmos-sdk/client/context"
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/types/rest"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	"github.com/andrecronje/cosmos-sdk/types/rest"
 )
 
 // StatusCommand returns the status of the network

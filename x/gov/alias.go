@@ -5,7 +5,7 @@
 package gov
 
 import (
-	"github.com/cosmos/cosmos-sdk/x/gov/types"
+	"github.com/andrecronje/cosmos-sdk/x/gov/types"
 )
 
 const (

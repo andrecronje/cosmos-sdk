@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 // BroadcastTx broadcasts a transactions either synchronously or asynchronously

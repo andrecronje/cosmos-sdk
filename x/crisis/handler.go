@@ -3,9 +3,9 @@ package crisis
 import (
 	"fmt"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/crisis/tags"
-	"github.com/cosmos/cosmos-sdk/x/crisis/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/x/crisis/tags"
+	"github.com/andrecronje/cosmos-sdk/x/crisis/types"
 )
 
 // RouterKey

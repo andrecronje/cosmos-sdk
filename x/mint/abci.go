@@ -1,7 +1,7 @@
 package mint
 
 import (
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 // BeginBlocker mints new tokens for the previous block.
