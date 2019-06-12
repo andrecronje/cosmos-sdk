@@ -15,7 +15,7 @@ import (
 	rpcserver "github.com/tendermint/tendermint/rpc/lib/server"
 
 	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/client/flags"
+	"github.com/andrecronje/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/codec"
 	keybase "github.com/cosmos/cosmos-sdk/crypto/keys"
 	"github.com/cosmos/cosmos-sdk/server"
