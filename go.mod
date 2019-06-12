@@ -1,4 +1,4 @@
-module github.com/cosmos/cosmos-sdk
+module github.com/andrecronje/cosmos-sdk
 
 require (
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
