@@ -3,10 +3,10 @@ package utils
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/client/tx"
-	"github.com/cosmos/cosmos-sdk/x/gov/tags"
-	"github.com/cosmos/cosmos-sdk/x/gov/types"
+	"github.com/andrecronje/cosmos-sdk/client/context"
+	"github.com/andrecronje/cosmos-sdk/client/tx"
+	"github.com/andrecronje/cosmos-sdk/x/gov/tags"
+	"github.com/andrecronje/cosmos-sdk/x/gov/types"
 )
 
 const (

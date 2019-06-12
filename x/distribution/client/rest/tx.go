@@ -5,13 +5,13 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	clientrest "github.com/cosmos/cosmos-sdk/client/rest"
-	"github.com/cosmos/cosmos-sdk/x/distribution/client/common"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
+	"github.com/andrecronje/cosmos-sdk/client/context"
+	clientrest "github.com/andrecronje/cosmos-sdk/client/rest"
+	"github.com/andrecronje/cosmos-sdk/x/distribution/client/common"
+	"github.com/andrecronje/cosmos-sdk/x/distribution/types"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/rest"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/types/rest"
 )
 
 func registerTxRoutes(cliCtx context.CLIContext, r *mux.Router, queryRoute string) {

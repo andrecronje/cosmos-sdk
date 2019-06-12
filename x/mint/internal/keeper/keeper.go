@@ -1,10 +1,10 @@
 package keeper
 
 import (
-	"github.com/cosmos/cosmos-sdk/codec"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/mint/internal/types"
-	"github.com/cosmos/cosmos-sdk/x/params"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/x/mint/internal/types"
+	"github.com/andrecronje/cosmos-sdk/x/params"
 )
 
 // keeper of the staking store

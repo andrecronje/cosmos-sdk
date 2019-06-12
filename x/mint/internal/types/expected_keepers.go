@@ -1,7 +1,7 @@
 package types // noalias
 
 import (
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 // expected staking keeper

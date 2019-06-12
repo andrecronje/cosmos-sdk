@@ -7,12 +7,12 @@ import (
 	"github.com/spf13/viper"
 	"github.com/tendermint/tendermint/libs/cli"
 
-	"github.com/cosmos/cosmos-sdk/client/keys"
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/server"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth/genaccounts"
-	"github.com/cosmos/cosmos-sdk/x/genutil"
+	"github.com/andrecronje/cosmos-sdk/client/keys"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	"github.com/andrecronje/cosmos-sdk/server"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/x/auth/genaccounts"
+	"github.com/andrecronje/cosmos-sdk/x/genutil"
 )
 
 const (

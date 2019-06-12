@@ -9,8 +9,8 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/input"
-	"github.com/cosmos/cosmos-sdk/tests"
+	"github.com/andrecronje/cosmos-sdk/client/input"
+	"github.com/andrecronje/cosmos-sdk/tests"
 )
 
 func Test_updateKeyCommand(t *testing.T) {

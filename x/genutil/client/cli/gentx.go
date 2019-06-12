@@ -18,16 +18,16 @@ import (
 	"github.com/tendermint/tendermint/libs/common"
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/codec"
-	kbkeys "github.com/cosmos/cosmos-sdk/crypto/keys"
-	"github.com/cosmos/cosmos-sdk/server"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/module"
+	"github.com/andrecronje/cosmos-sdk/client"
+	"github.com/andrecronje/cosmos-sdk/client/context"
+	"github.com/andrecronje/cosmos-sdk/codec"
+	kbkeys "github.com/andrecronje/cosmos-sdk/crypto/keys"
+	"github.com/andrecronje/cosmos-sdk/server"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/types/module"
 
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/genutil"
+	"github.com/andrecronje/cosmos-sdk/x/auth"
+	"github.com/andrecronje/cosmos-sdk/x/genutil"
 )
 
 // helpers for message building gen-tx command

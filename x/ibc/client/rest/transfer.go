@@ -3,11 +3,11 @@ package rest
 import (
 	"net/http"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	clientrest "github.com/cosmos/cosmos-sdk/client/rest"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/ibc"
+	"github.com/andrecronje/cosmos-sdk/client/context"
+	clientrest "github.com/andrecronje/cosmos-sdk/client/rest"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/types/rest"
+	"github.com/andrecronje/cosmos-sdk/x/ibc"
 
 	"github.com/gorilla/mux"
 )
