@@ -2,7 +2,7 @@ module github.com/andrecronje/cosmos-sdk
 
 require (
 	bou.ke/monkey v1.0.1 // indirect
-	github.com/andrecronje/babble-abci v0.0.0-20190612125645-ea02d0181a13
+	github.com/andrecronje/babble-abci v0.0.0-20190612145923-e68658a1d811
 	github.com/bartekn/go-bip39 v0.0.0-20171116152956-a05967ea095d
 	github.com/bgentry/speakeasy v0.1.0
 	github.com/btcsuite/btcd v0.0.0-20190605094302-a0d1e3e36d50
@@ -31,7 +31,6 @@ require (
 	github.com/tendermint/iavl v0.12.2
 	github.com/tendermint/tendermint v0.31.7
 	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
-	google.golang.org/genproto v0.0.0-20180831171423-11092d34479b // indirect
 	gopkg.in/yaml.v2 v2.2.2
 )
 

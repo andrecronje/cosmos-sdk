@@ -13,6 +13,8 @@ github.com/andrecronje/babble v0.0.0-20190612124650-437c9e231e30 h1:y0vCT+EAbIfF
 github.com/andrecronje/babble v0.0.0-20190612124650-437c9e231e30/go.mod h1:dlDiMy/3TiB5GNj6G4uvYrADrv/sJuB9mHP/xGxA9AY=
 github.com/andrecronje/babble-abci v0.0.0-20190612125645-ea02d0181a13 h1:H90tDlU9zsjPFszaQybPsU+xuRe8oiwLo4usyq2lNLo=
 github.com/andrecronje/babble-abci v0.0.0-20190612125645-ea02d0181a13/go.mod h1:l+0tn6vE4GCOWnXyu3dp9OlV+nEc3XxK+HJasVA/4n0=
+github.com/andrecronje/babble-abci v0.0.0-20190612145923-e68658a1d811 h1:L5eXbVIyQeyNBhtXyhjWI/kZcAc45SQ9KPbPktaYls8=
+github.com/andrecronje/babble-abci v0.0.0-20190612145923-e68658a1d811/go.mod h1:0EhoA95n9JM2iA6tUxWPMqX9+jKkyoRJ9OZ20snTQu4=
 github.com/bartekn/go-bip39 v0.0.0-20171116152956-a05967ea095d h1:1aAija9gr0Hyv4KfQcRcwlmFIrhkDmIj2dz5bkg/s/8=
 github.com/bartekn/go-bip39 v0.0.0-20171116152956-a05967ea095d/go.mod h1:icNx/6QdFblhsEjZehARqbNumymUT/ydwlLojFdv7Sk=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 h1:xJ4a3vCFaGF/jqvzLMYoU8P317H5OQ+Via4RmuPwCS0=
@@ -206,6 +208,7 @@ github.com/tendermint/go-amino v0.15.0/go.mod h1:TQU0M1i/ImAo+tYpZi73AU3V/dKeCoM
 github.com/tendermint/iavl v0.12.1/go.mod h1:EoKMMv++tDOL5qKKVnoIqtVPshRrEPeJ0WsgDOLAauM=
 github.com/tendermint/iavl v0.12.2 h1:Ls5p5VINCM1HRT9g5Vvs2zmDOCU/CCIvIHzd/pZ8P0E=
 github.com/tendermint/iavl v0.12.2/go.mod h1:EoKMMv++tDOL5qKKVnoIqtVPshRrEPeJ0WsgDOLAauM=
+github.com/tendermint/tendermint v0.31.2-0.20190419114611-4253e67c07c6/go.mod h1:ymcPyWblXCplCPQjbOYbrF1fWnpslATMVqiGgWbZrlc=
 github.com/tendermint/tendermint v0.31.5 h1:vTet8tCq3B9/J9Yo11dNZ8pOB7NtSy++bVSfkP4KzR4=
 github.com/tendermint/tendermint v0.31.5/go.mod h1:ymcPyWblXCplCPQjbOYbrF1fWnpslATMVqiGgWbZrlc=
 github.com/tendermint/tendermint v0.31.7 h1:2xhlEqmrvm+wJxgPTFpUHb0wgT9KFyi3n3FVG+dOlKU=
