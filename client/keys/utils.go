@@ -9,8 +9,8 @@ import (
 	"gopkg.in/yaml.v2"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/input"
-	"github.com/cosmos/cosmos-sdk/crypto/keys"
+	"github.com/andrecronje/cosmos-sdk/client/input"
+	"github.com/andrecronje/cosmos-sdk/crypto/keys"
 )
 
 // available output formats.

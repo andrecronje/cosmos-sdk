@@ -12,9 +12,9 @@ import (
 	"github.com/tendermint/tendermint/libs/cli"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/crypto"
-	"github.com/cosmos/cosmos-sdk/crypto/keys"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/crypto"
+	"github.com/andrecronje/cosmos-sdk/crypto/keys"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 const (

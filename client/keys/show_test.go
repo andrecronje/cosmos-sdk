@@ -11,9 +11,9 @@ import (
 	"github.com/tendermint/tendermint/crypto/secp256k1"
 
 	"github.com/andrecronje/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/crypto/keys"
-	"github.com/cosmos/cosmos-sdk/tests"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/andrecronje/cosmos-sdk/crypto/keys"
+	"github.com/andrecronje/cosmos-sdk/tests"
+	sdk "github.com/andrecronje/cosmos-sdk/types"
 )
 
 func Test_multiSigKey_Properties(t *testing.T) {
