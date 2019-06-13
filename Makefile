@@ -6,7 +6,7 @@ VERSION := $(shell echo $(shell git describe --tags) | sed 's/^v//')
 COMMIT := $(shell git log -1 --format='%H')
 LEDGER_ENABLED ?= true
 BINDIR ?= $(GOPATH)/bin
-SIMAPP = github.com/cosmos/cosmos-sdk/simapp
+SIMAPP = github.com/andrecronje/cosmos-sdk/simapp
 
 export GO111MODULE = on
 
